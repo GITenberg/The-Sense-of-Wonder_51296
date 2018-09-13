@@ -1,0 +1,40 @@
+_repo: The-Sense-of-Wonder_51296
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rosenbaum, Harry
+    gutenberg_agent_id: '47240'
+    url: http://www.gutenberg.org/2009/agents/47240
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Chase, Adam
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Wilder, Stephen
+    - Lesser, Milton
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: The Sense of Wonder
+url: http://www.gutenberg.org/ebooks/51296
