@@ -5,6 +5,9 @@ contributor:
     agent_name: Rosenbaum, Harry
     gutenberg_agent_id: '47240'
     url: http://www.gutenberg.org/2009/agents/47240
+covers:
+- cover_type: archival
+  image_path: 51296-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51296#The-Sense-of-Wonder
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-24'
 gutenberg_type: Text
